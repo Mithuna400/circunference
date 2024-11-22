@@ -13,7 +13,13 @@ void main()
     bmi= w/h*h;
     printf("\n body mass index : %f",bmi);
 }
+______________________________________________________
 
+OUTPUT
+enter the weight65.80
+enter the height121.3
+
+ body mass index : 65.800003
 
 
 
